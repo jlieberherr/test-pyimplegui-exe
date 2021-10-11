@@ -1,10 +1,10 @@
 # How to do a pysimple-gui, make an executable and run the executable with a config-file by drag and drop
 
 ## Installation
-* ```cd path\to\venv\folder```
-* ```"path\to\Python3.8\python.exe -m venv venv_test_pysimplegui_exe```
+* ```"cd path\to\venv\folder"```
+* ```"path\to\Python3.8\python.exe" -m venv venv_test_pysimplegui_exe```
 * ```venv_test_pysimplegui_exe/Scripts/activate```
-* ```cd path\to\dev\folder```
+* ```cd "path\to\dev\folder"```
 * ```git clone https://github.com/jlieberherr/test-pysimplegui-exe.git```
 * ```cd test-pysimplegui-exe```
 * ```pip install -r requirements.txt```
