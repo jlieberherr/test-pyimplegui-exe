@@ -1,7 +1,7 @@
-# How to do a pysimple-gui, make an executable and run the executable with a config-file by drag and drop
+# How to do a pysimple-gui, make an executable and run the executable with a config-yaml-file by drag and drop
 
 ## Installation
-* ```"cd path\to\venv\folder"```
+* ```cd "path\to\venv\folder"```
 * ```"path\to\Python3.8\python.exe" -m venv venv_test_pysimplegui_exe```
 * ```venv_test_pysimplegui_exe/Scripts/activate```
 * ```cd "path\to\dev\folder"```
