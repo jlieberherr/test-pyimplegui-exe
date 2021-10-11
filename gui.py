@@ -3,7 +3,7 @@ import PySimpleGUI as sg
 import yaml
 
 def run_gui(a_text):
-    sg.theme('DarkAmber')   # Add a touch of color
+    # from https://pysimplegui.readthedocs.io/en/latest/
     # All the stuff inside your window.
     layout = [  [sg.Text('Text from config.yaml: {}'.format(a_text))],
                 [sg.Text('Enter something on Row 2'), sg.InputText()],
